@@ -1,6 +1,6 @@
 import random
 
-word_bank = ['java']
+word_bank = ['java', 'python', 'javascript', 'scala', 'typescript']
 
 word = random.choice(word_bank)
 attempts = 10
